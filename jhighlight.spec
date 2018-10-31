@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:           jhighlight
 Version:        1.0
-Release:        11.2
+Release:        11.3
 Summary:        An embeddable pure Java syntax highlighting library
 
 Group:          Development/Java
