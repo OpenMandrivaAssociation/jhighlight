@@ -6,7 +6,7 @@ Summary:        An embeddable pure Java syntax highlighting library
 
 Group:          Development/Java
 License:        LGPLv2+
-URL:            http://svn.rifers.org/jhighlight
+URL:            https://svn.rifers.org/jhighlight
 
 # svn export http://svn.rifers.org/jhighlight/tags/release-1.0/ jhighlight-1.0
 # find jhighlight-1.0/ -name *.jar
