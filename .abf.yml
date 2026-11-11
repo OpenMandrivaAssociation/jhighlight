@@ -1,3 +1,5 @@
 sources:
+  jhighlight-1.0.tar.gz: 91e0a7c39ede3bf4e26ea9779d2c096fcd3b2736
+removed_sources:
   jhighlight-1.0.pom: 61b040fc29f1085d2a8151b6a14312f631181b95
   jhighlight-1.0.tar.xz: ca43efe366449f5f6b262db4afb023699f4ebe8e
